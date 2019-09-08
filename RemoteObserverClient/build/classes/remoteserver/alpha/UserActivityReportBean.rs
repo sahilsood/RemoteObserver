@@ -1,0 +1,1 @@
+remoteobserver.alpha.UserActivityReportBean
